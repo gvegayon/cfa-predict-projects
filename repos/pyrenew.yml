@@ -1,0 +1,6 @@
+repository: CDCgov/pyrenew
+title: 'pyrenew: Python package for multi-signal Bayesian renewal modeling with JAX and NumPyro.'
+type: 'Python library'
+contact:
+  name: 'Damon Bayer'
+  user: 'damonbayer'

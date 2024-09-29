@@ -1,0 +1,6 @@
+repository: CDCgov/Rt-without-renewal
+title: 'EpiAware.jl: An infectious disease situational awareness modelling toolkit for Julia.'
+type: 'Julia library'
+contact:
+  name: 'Samuel Brand'
+  user: 'SamuelBrand1'

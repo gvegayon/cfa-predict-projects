@@ -1,0 +1,6 @@
+repository: CDCgov/cfa-epinow2-pipeline
+title: 'CFAEpiNow2Pipeline: EpiNow2 wrapper for deployment to Azure Batch'
+type: 'R package'
+contact:
+  name: 'Zachary Susswein'
+  user: 'zsusswein'

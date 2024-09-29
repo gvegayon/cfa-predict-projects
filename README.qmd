@@ -1,0 +1,78 @@
+---
+format: gfm
+title: |
+    Open Source Projects by CDC's Center for Forecasting and Outbreak Analytics
+---
+
+## Projects
+
+The following is a list of open source projects maintained by the Center for Forecasting and Outbreak Analytics ([CFA](https://www.cdc.gov/forecast-outbreak-analytics/index.html)) at the Centers for Disease Control and Prevention.
+
+```{r}
+#| label: listing-repos
+#| echo: false
+#| cache: true
+library(yaml)
+source("functions.R")
+
+repos <- list.files("repos", full.names = TRUE) |>
+  lapply(yaml::read_yaml)
+
+repos <- lapply(repos, as.data.frame) |>
+  do.call(what = rbind)
+
+contrib <- lapply(repos$repository, get_contributors)
+```
+
+```{r}
+#| label: display-repos
+#| echo: false
+# Generating icons
+dat_icons <- sapply(contrib, function(x) {
+  gen_author_icons(
+    url = x$html_url, 
+    avatar_url = x$avatar_url
+  )
+})
+
+# Generating titles
+dat_titles <- sprintf(
+  '<a href="%s" target="_blank">%s</a>',
+  sprintf("https://github.com/%s", repos$repository),
+  repos$title
+  )
+
+# Generating link to maintainer
+dat_maintainer <- sprintf(
+  '<a href="%s" target="_blank">%s</a>',
+  sprintf("https://github.com/%s", repos$contact.user),
+  repos$contact.name
+)
+
+dat <- data.frame(
+  Title = dat_titles,
+  Maintainer = dat_maintainer,
+  Contributors = dat_icons
+)
+```
+
+```{r}
+#| results: asis
+#| echo: false
+#| label: print-table
+res <- knitr::kable(dat, format = "html", escape = FALSE)
+cat(res)
+```
+
+## How to contribute
+
+New repositories can be added to this list by submitting a pull request including the following information in a YAML file:
+
+```yaml
+repository: "github-username/repo-name"
+title: "Title of the repository"
+description: "Description of the repository"
+contact:
+  name: "Person name"
+  user: "github-username"
+```

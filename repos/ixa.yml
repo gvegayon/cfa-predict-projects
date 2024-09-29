@@ -1,0 +1,6 @@
+repository: CDCgov/ixa
+title: 'Ixa (Interactive eXecution of ABMs) is a framework for building modular agent-based models in Rust.'
+type: 'Rust library'
+contact:
+  name: 'Kate Hudson'
+  user: 'k88hudson-cfa'

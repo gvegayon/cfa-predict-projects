@@ -1,0 +1,6 @@
+repository: CDCgov/ww-inference-model
+title: 'wwinference: Jointly infers infection dynamics from wastewater data and epidemiological indicators.'
+type: 'R package'
+contact:
+  name: 'Kaitlyn Johnson'
+  user: 'kaitejohnson'
