@@ -1,0 +1,39 @@
+name: Render and Commit README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  render_and_commit:
+    runs-on: ubuntu-latest
+    container: rocker/r-ver:4.4.0
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+          # Mostly from https://github.com/quarto-dev/quarto-actions/blob/main/setup/action.yml
+      - name: Installing quarto
+        run: |
+          wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.553/quarto-1.4.553-linux-amd64.deb
+          sudo apt install ./quarto-1.4.553-linux-amd64.deb
+          quarto install tool tinytex --log-level warning
+          echo "$HOME/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: |
+          install2.r yaml
+
+      - name: Render README
+        run: |
+          quarto render README.qmd --to gfm
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Render README"
+          git push
