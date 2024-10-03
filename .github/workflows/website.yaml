@@ -20,6 +20,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
         
       - name: Installing quarto
