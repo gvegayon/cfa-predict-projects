@@ -49,5 +49,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add README.md || echo "No changes to commit"
-          git commit -m "Render README" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git commit -m "Render README [skip ci]" || echo "No changes to commit"
+          git push origin ${{ github.ref }} || echo "No changes to push"
