@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request: 
+    branches:
+      - main
 
 jobs:
   render_and_commit:
@@ -19,7 +22,6 @@ jobs:
         run: |
           wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.553/quarto-1.4.553-linux-amd64.deb
           sudo apt install ./quarto-1.4.553-linux-amd64.deb
-          quarto install tool tinytex --log-level warning
           echo "$HOME/bin" >> $GITHUB_PATH
 
       - name: Install dependencies
