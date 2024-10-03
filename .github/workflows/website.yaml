@@ -28,8 +28,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          echo 'options(repos = c(CRAN = "https://packagemanager.posit.co/cran/latest"))' > ~/.Rprofile
-          Rscript --vanilla -e 'install.packages(c("yaml", "rmarkdown"))'
+          sudo echo 'options(repos = c(CRAN = "https://packagemanager.posit.co/cran/latest"))' > ~/.Rprofile
+          sudo Rscript --vanilla -e 'install.packages(c("yaml", "rmarkdown"))'
 
       - name: Checkout repository
         uses: actions/checkout@v4
