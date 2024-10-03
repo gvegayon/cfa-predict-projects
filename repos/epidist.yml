@@ -1,0 +1,6 @@
+repository: epinowcast/epidist
+title: 'epidist: An R package for estimating epidemiological delay distributions.'
+type: 'R package'
+contact:
+  name: 'Adam Howes'
+  user: 'athowes'
