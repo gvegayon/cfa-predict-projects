@@ -19,9 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: rocker/r-ver:4.4.0
-      # This option is to avoid git commit issues within the container
-      # https://github.com/actions/runner/issues/2033#issuecomment-1598547465
-      options: --user 1001
 
     steps:
         
@@ -46,6 +43,7 @@ jobs:
 
       - name: Commit changes
         run: |
+          gh auth login --with-token < $GH_TOKEN
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add README.md || echo "No changes to commit"
