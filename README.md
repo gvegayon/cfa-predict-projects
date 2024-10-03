@@ -1,5 +1,4 @@
-# Open Source Projects by CDC’s Center for Forecasting and Outbreak
-Analytics
+# Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
 ## Projects
 
