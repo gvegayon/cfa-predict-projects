@@ -34,7 +34,7 @@ jobs:
       - name: Install dependencies
         run: |
           install2.r -n2 yaml rmarkdown
-          apt install -y --no-install-recommends gh
+          apt install -y --no-install-recommends gh git
 
       - name: Render README
         run: |
