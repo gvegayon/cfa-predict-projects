@@ -17,22 +17,19 @@ jobs:
     name: Render and Commit README
 
     runs-on: ubuntu-latest
-    container:
-      image: rocker/r-ver:4.4.0
 
     steps:
         
       - name: Installing quarto
         run: |
-          apt update && apt install -y --no-install-recommends wget
           wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.553/quarto-1.4.553-linux-amd64.deb
           apt install ./quarto-1.4.553-linux-amd64.deb
           echo "$HOME/bin" >> $GITHUB_PATH
 
       - name: Install dependencies
         run: |
-          install2.r -n2 yaml rmarkdown
-          apt install -y --no-install-recommends gh git
+          echo 'options(repos = c(CRAN = "https://packagemanager.posit.co/cran/latest"))' > ~/.Rprofile
+          Rscript --vanilla -e 'install.packages(c("yaml", "rmarkdown"))'
 
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -43,7 +40,6 @@ jobs:
 
       - name: Commit changes
         run: |
-          chown -R $(id -u):$(id -g) $PWD
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add README.md || echo "No changes to commit"
