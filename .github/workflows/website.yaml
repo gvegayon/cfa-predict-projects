@@ -20,10 +20,7 @@ jobs:
     container: rocker/r-ver:4.4.0
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-          # Mostly from https://github.com/quarto-dev/quarto-actions/blob/main/setup/action.yml
+        
       - name: Installing quarto
         run: |
           apt update && apt install -y --no-install-recommends wget
@@ -35,6 +32,9 @@ jobs:
         run: |
           install2.r -n2 yaml rmarkdown
           apt install -y --no-install-recommends gh git
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Render README
         run: |
