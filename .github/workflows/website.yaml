@@ -30,7 +30,7 @@ jobs:
         run: |
           options(repos = c(CRAN = "https://packagemanager.posit.co/cran/latest"))
           install.packages(c("yaml", "rmarkdown"))
-        shell: Rscript --vanilla -e {0}
+        shell: Rscript {0}
 
       - name: Checkout repository
         uses: actions/checkout@v4
