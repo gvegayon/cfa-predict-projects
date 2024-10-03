@@ -1,4 +1,5 @@
-# Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
+# Open Source Projects by CDC’s Center for Forecasting and Outbreak
+Analytics
 
 ## Projects
 
@@ -38,6 +39,24 @@ Susswein</a>
 <a href="https://github.com/athowes" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/29818116?v=4"/></a>
 <a href="https://github.com/gvegayon" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/893619?v=4"/></a>
 <a href="https://github.com/jkislin" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/136386616?v=4"/></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+<a href="https://github.com/epinowcast/epidist" target="_blank">epidist:
+An R package for estimating epidemiological delay distributions.</a>
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/athowes" target="_blank">Adam Howes</a>
+</td>
+<td style="text-align:left;">
+<a href="https://github.com/seabbs" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20317649?v=4"/></a>
+<a href="https://github.com/athowes" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/29818116?v=4"/></a>
+<a href="https://github.com/parksw3" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/18031050?v=4"/></a>
+<a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
+<a href="https://github.com/apps/github-actions" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/15368?v=4"/></a>
+<a href="https://github.com/damonbayer" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8095080?v=4"/></a>
+<a href="https://github.com/medewitt" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/25038837?v=4"/></a>
 </td>
 </tr>
 <tr>
