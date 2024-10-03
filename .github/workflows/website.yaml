@@ -43,7 +43,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config safe.directory *
+          git config --global safe.directory *
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add README.md || echo "No changes to commit"
