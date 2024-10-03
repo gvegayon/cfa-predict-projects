@@ -27,7 +27,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install2.r yaml
+          install2.r -n2 yaml rmarkdown
 
       - name: Render README
         run: |
