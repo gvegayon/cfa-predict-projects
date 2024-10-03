@@ -10,6 +10,16 @@ on:
 
 jobs:
   render_and_commit:
+
+    permissions: 
+      contents: write
+      pull-requests: write
+    
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+    name: Render and Commit README
+
     runs-on: ubuntu-latest
     container: rocker/r-ver:4.4.0
 
