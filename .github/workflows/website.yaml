@@ -17,7 +17,11 @@ jobs:
     name: Render and Commit README
 
     runs-on: ubuntu-latest
-    container: rocker/r-ver:4.4.0
+    container:
+      image: rocker/r-ver:4.4.0
+      # This option is to avoid git commit issues within the container
+      # https://github.com/actions/runner/issues/2033#issuecomment-1598547465
+      options: --user 1001
 
     steps:
         
@@ -42,9 +46,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global --add safe.directory ${{ github.workspace }}
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add README.md || echo "No changes to commit"
           git commit -m "Render README" || echo "No changes to commit"
           git push || echo "No changes to push"
