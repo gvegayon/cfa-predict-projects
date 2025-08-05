@@ -1,0 +1,6 @@
+repository: CDCgov/pygriddler
+title: 'Griddler: a grammar of parameters'
+type: 'Python library'
+contact:
+  name: 'Scott Olesen'
+  user: 'swo'

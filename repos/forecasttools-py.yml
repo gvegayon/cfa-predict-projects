@@ -1,0 +1,6 @@
+repository: CDCgov/forecasttools-py
+title: 'A Python package for common pre- and post-processing operations done by CFA Predict for short term forecasting, nowcasting, and scenario modeling.'
+type: 'Python library'
+contact:
+  name: 'Trevor Martin'
+  user: 'AFg6K7h4fhy2'

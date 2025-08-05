@@ -1,0 +1,6 @@
+repository: CDCgov/covid19-forecast-hub
+title: 'A repository run by the US CDC to collect forecasts of weekly incident COVID-19 hospital admissions.'
+type: 'github'
+contact:
+  name: 'Subekshya Bidari'
+  user: 'sbidari'

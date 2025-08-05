@@ -1,0 +1,6 @@
+repository: CDCgov/DynODE
+title: 'CDC/CFA/Predict/Scenarios ODE Modeling Framework'
+type: 'Python library'
+contact:
+  name: 'Thomas Hladish'
+  user: 'tjhladish'
