@@ -72,26 +72,25 @@ dat <- data.frame(
     # Last commit
     sprintf("https://github.com/%s/commits", repos$repository),
     sprintf(
-      "![last commit](https://img.shields.io/github/last-commit/%s.svg)",
+      '<img src="https://img.shields.io/github/last-commit/%s.svg">',
       repos$repository
     ),
     # Issues
     sprintf("https://github.com/%s/issues", repos$repository),
     sprintf(
-      "![issues](https://img.shields.io/github/issues/%s.svg)",
+      "<img src='https://img.shields.io/github/issues/%s.svg'>",
       repos$repository
       ),
     # Pull requests
     sprintf("https://github.com/%s/branches", repos$repository),
     sprintf(
-      "![branches](https://img.shields.io/github/issues-pr/%s.svg)",
+      "<img src='https://img.shields.io/github/issues-pr/%s.svg'>",
       repos$repository
     ),
     # Branches
     sprintf("https://github.com/%s/branches", repos$repository),
     sprintf(
-      "![branches](https://img.shields.io/badge/branches-%i-violet
-)",
+      "<img src='https://img.shields.io/badge/branches-%i-violet'>",
       sapply(branches, nrow)
     )
   ),
