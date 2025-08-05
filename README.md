@@ -1,9 +1,8 @@
-# Open Source Projects by CDC’s Center for Forecasting and Outbreak
-Analytics
 
-## Projects
 
-<sup>(Last updated: 2025-08-04 18:41:25.984769)</sup>
+# Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
+
+<sup>(Last updated: 2025-08-04 18:46:01.84297)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -79,7 +78,7 @@ Susswein</a>
 <td style="text-align:left;">
 
 <a href='https://github.com/CDCgov/cfa-epinow2-pipeline/commits' target='_blank'>![last
-commit](https://img.shields.io/github/last-commit/CDCgov/cfa-epinow2-pipeline.svg)</a><br><a href='https://github.com/CDCgov/cfa-epinow2-pipeline/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/cfa-epinow2-pipeline.svg)</a><br><a href='https://github.com/CDCgov/cfa-epinow2-pipeline/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/cfa-epinow2-pipeline.svg)</a><br><a href='https://github.com/CDCgov/cfa-epinow2-pipeline/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-3-violet.png)</a>
+commit](https://img.shields.io/github/last-commit/CDCgov/cfa-epinow2-pipeline.svg)</a><br><a href='https://github.com/CDCgov/cfa-epinow2-pipeline/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/cfa-epinow2-pipeline.svg)</a><br><a href='https://github.com/CDCgov/cfa-epinow2-pipeline/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/cfa-epinow2-pipeline.svg)</a><br><a href='https://github.com/CDCgov/cfa-epinow2-pipeline/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-25-violet.png)</a>
 </td>
 
 </tr>
@@ -123,7 +122,7 @@ Hudson</a>
 <td style="text-align:left;">
 
 <a href='https://github.com/CDCgov/ixa/commits' target='_blank'>![last
-commit](https://img.shields.io/github/last-commit/CDCgov/ixa.svg)</a><br><a href='https://github.com/CDCgov/ixa/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/ixa.svg)</a><br><a href='https://github.com/CDCgov/ixa/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/ixa.svg)</a><br><a href='https://github.com/CDCgov/ixa/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-3-violet.png)</a>
+commit](https://img.shields.io/github/last-commit/CDCgov/ixa.svg)</a><br><a href='https://github.com/CDCgov/ixa/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/ixa.svg)</a><br><a href='https://github.com/CDCgov/ixa/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/ixa.svg)</a><br><a href='https://github.com/CDCgov/ixa/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-30-violet.png)</a>
 </td>
 
 </tr>
@@ -161,7 +160,7 @@ NumPyro.</a>
 <td style="text-align:left;">
 
 <a href='https://github.com/CDCgov/pyrenew/commits' target='_blank'>![last
-commit](https://img.shields.io/github/last-commit/CDCgov/pyrenew.svg)</a><br><a href='https://github.com/CDCgov/pyrenew/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/pyrenew.svg)</a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/pyrenew.svg)</a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-5-violet.png)</a>
+commit](https://img.shields.io/github/last-commit/CDCgov/pyrenew.svg)</a><br><a href='https://github.com/CDCgov/pyrenew/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/pyrenew.svg)</a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/pyrenew.svg)</a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-22-violet.png)</a>
 </td>
 
 </tr>
@@ -198,7 +197,7 @@ Brand</a>
 <td style="text-align:left;">
 
 <a href='https://github.com/CDCgov/Rt-without-renewal/commits' target='_blank'>![last
-commit](https://img.shields.io/github/last-commit/CDCgov/Rt-without-renewal.svg)</a><br><a href='https://github.com/CDCgov/Rt-without-renewal/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/Rt-without-renewal.svg)</a><br><a href='https://github.com/CDCgov/Rt-without-renewal/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/Rt-without-renewal.svg)</a><br><a href='https://github.com/CDCgov/Rt-without-renewal/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-3-violet.png)</a>
+commit](https://img.shields.io/github/last-commit/CDCgov/Rt-without-renewal.svg)</a><br><a href='https://github.com/CDCgov/Rt-without-renewal/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/Rt-without-renewal.svg)</a><br><a href='https://github.com/CDCgov/Rt-without-renewal/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/Rt-without-renewal.svg)</a><br><a href='https://github.com/CDCgov/Rt-without-renewal/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-30-violet.png)</a>
 </td>
 
 </tr>
@@ -230,7 +229,7 @@ Johnson</a>
 <td style="text-align:left;">
 
 <a href='https://github.com/CDCgov/ww-inference-model/commits' target='_blank'>![last
-commit](https://img.shields.io/github/last-commit/CDCgov/ww-inference-model.svg)</a><br><a href='https://github.com/CDCgov/ww-inference-model/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/ww-inference-model.svg)</a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/ww-inference-model.svg)</a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-3-violet.png)</a>
+commit](https://img.shields.io/github/last-commit/CDCgov/ww-inference-model.svg)</a><br><a href='https://github.com/CDCgov/ww-inference-model/issues' target='_blank'>![issues](https://img.shields.io/github/issues/CDCgov/ww-inference-model.svg)</a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'>![branches](https://img.shields.io/github/issues-pr/CDCgov/ww-inference-model.svg)</a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'>![branches](https://img.shields.io/badge/branches-19-violet.png)</a>
 </td>
 
 </tr>

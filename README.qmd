@@ -1,10 +1,8 @@
 ---
 format: gfm
-title: |
-    Open Source Projects by CDC's Center for Forecasting and Outbreak Analytics
 ---
 
-## Projects
+# Open Source Projects by CDC's Center for Forecasting and Outbreak Analytics
 
 <sup>(Last updated: `r Sys.time()`)</sup>
 
@@ -94,7 +92,7 @@ dat <- data.frame(
     sprintf(
       "![branches](https://img.shields.io/badge/branches-%i-violet
 )",
-      sapply(branches, length)
+      sapply(branches, nrow)
     )
   ),
   check.names = FALSE
