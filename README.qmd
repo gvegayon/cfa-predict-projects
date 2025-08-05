@@ -1,10 +1,10 @@
 ---
 format: gfm
-title: |
-    Open Source Projects by CDC's Center for Forecasting and Outbreak Analytics
 ---
 
-## Projects
+# Open Source Projects by CDC's Center for Forecasting and Outbreak Analytics
+
+<sup>(Last updated: `r Sys.time()`)</sup>
 
 The following is a list of open source projects maintained by the Center for Forecasting and Outbreak Analytics ([CFA](https://www.cdc.gov/forecast-outbreak-analytics/index.html)) at the Centers for Disease Control and Prevention.
 
@@ -20,8 +20,16 @@ repos <- list.files("repos", full.names = TRUE) |>
 
 repos <- lapply(repos, as.data.frame) |>
   do.call(what = rbind)
+```
 
+```{r}
+#| label: get-numbers
+#| echo: false
+#| cache: true
 contrib <- lapply(repos$repository, get_contributors)
+
+# Further stats about the repos
+branches <- lapply(repos$repository, get_branches)
 ```
 
 ```{r}
@@ -52,7 +60,42 @@ dat_maintainer <- sprintf(
 dat <- data.frame(
   Title = dat_titles,
   Maintainer = dat_maintainer,
-  Contributors = dat_icons
+  Contributors = dat_icons,
+  `Activity (issues/branches)` = sprintf(
+    paste(
+      "<a href='%s' target='_blank'>%s</a>",
+      "<a href='%s' target='_blank'>%s</a>",
+      "<a href='%s' target='_blank'>%s</a>",
+      "<a href='%s' target='_blank'>%s</a>",
+      sep = "<br>"
+    ),
+    # Last commit
+    sprintf("https://github.com/%s/commits", repos$repository),
+    sprintf(
+      "![last commit](https://img.shields.io/github/last-commit/%s.svg)",
+      repos$repository
+    ),
+    # Issues
+    sprintf("https://github.com/%s/issues", repos$repository),
+    sprintf(
+      "![issues](https://img.shields.io/github/issues/%s.svg)",
+      repos$repository
+      ),
+    # Pull requests
+    sprintf("https://github.com/%s/branches", repos$repository),
+    sprintf(
+      "![branches](https://img.shields.io/github/issues-pr/%s.svg)",
+      repos$repository
+    ),
+    # Branches
+    sprintf("https://github.com/%s/branches", repos$repository),
+    sprintf(
+      "![branches](https://img.shields.io/badge/branches-%i-violet
+)",
+      sapply(branches, nrow)
+    )
+  ),
+  check.names = FALSE
 )
 ```
 

@@ -1,6 +1,9 @@
 name: Render and Commit README
 
 on:
+  schedule:
+    # Every Monday, Wednesday, and Friday at midnight UTC    
+    - cron: '0 0 * * MON,WED,FRI' 
   push:
     branches:
       - main
@@ -12,6 +15,9 @@ on:
 
 jobs:
   render_and_commit:
+
+    permissions:
+      contents: write
     
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

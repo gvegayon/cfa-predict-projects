@@ -98,3 +98,61 @@ gen_author_icons <- function(
 
 
 }
+
+#' Get repository information using the GitHub API.
+#' @param repo A string of the form "OWNER/REPO"
+#' @param verbose Logical, whether to print the command being run.
+#' @details
+#' For more details, see
+#' <https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#get-a-repository>
+get_repository <- function(
+  repo,
+  verbose = FALSE
+) {
+  
+  cmd <- sprintf(
+    paste(
+      'gh api',
+      '-H "Accept: application/vnd.github+json"',
+      '-H "X-GitHub-Api-Version: 2022-11-28"',
+      'repos/%s'
+    ),
+    repo
+  )
+
+  if (verbose || interactive()) {
+    message(cmd)
+  }
+    
+  system(cmd, intern = TRUE) |>
+    jsonlite::fromJSON()
+}
+
+#' Get branches for a GitHub repository using the GitHub API.
+#' @param repo A string of the form "OWNER/REPO"
+#' @param verbose Logical, whether to print the command being run.
+#' @details
+#' For more details, see
+#' <https://docs.github.com/en/rest/branches/branches?apiVersion=2022-11-28>
+get_branches <- function(
+  repo,
+  verbose = FALSE
+) {
+  
+  cmd <- sprintf(
+    paste(
+      'gh api',
+      '-H "Accept: application/vnd.github+json"',
+      '-H "X-GitHub-Api-Version: 2022-11-28"',
+      'repos/%s/branches'
+    ),
+    repo
+  )
+
+  if (verbose || interactive()) {
+    message(cmd)
+  }
+    
+  system(cmd, intern = TRUE) |>
+    jsonlite::fromJSON()
+}
