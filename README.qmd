@@ -61,7 +61,7 @@ dat <- data.frame(
   Title = dat_titles,
   Maintainer = dat_maintainer,
   Contributors = dat_icons,
-  `Activity (issues/branches)` = sprintf(
+  `Activity` = sprintf(
     paste(
       "<a href='%s' target='_blank'>%s</a>",
       "<a href='%s' target='_blank'>%s</a>",
