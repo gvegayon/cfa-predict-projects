@@ -59,7 +59,7 @@ jobs:
           path: README.md
 
       - name: Commit changes
-        if: github.event_name == 'push'
+        if: github.event_name == 'push' || github.event_name == 'schedule'
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
