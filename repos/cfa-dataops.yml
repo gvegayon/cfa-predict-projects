@@ -1,0 +1,6 @@
+repository: CDCgov/cfa-dataops
+title: "Data tools and low friction access to versioned datasets within CDC's Center for Forecasting and Outbreak Analytics (CFA) virtual private cloud (VPC)"
+type: 'devtools'
+contact:
+  name: 'Thomas Hladish'
+  user: 'utx5@cdc.gov'
