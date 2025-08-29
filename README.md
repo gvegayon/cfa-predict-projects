@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2025-08-28 16:23:39.736714)</sup>
+<sup>(Last updated: 2025-08-29 00:31:24.771362)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -231,8 +231,8 @@ Hudson</a>
 <a href="https://github.com/k88hudson-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/145493147?v=4"/></a>
 <a href="https://github.com/cdc-as81" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/194849593?v=4"/></a>
 <a href="https://github.com/ChiragKumar9" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20232240?v=4"/></a>
-<a href="https://github.com/apps/ext-cfa-ixa-release" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/12104975?v=4"/></a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
+<a href="https://github.com/apps/ext-cfa-ixa-release" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/12104975?v=4"/></a>
 <a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
 <a href="https://github.com/ranya-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/172307639?v=4"/></a>
