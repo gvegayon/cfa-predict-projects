@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2025-09-05 00:31:42.836864)</sup>
+<sup>(Last updated: 2025-09-08 00:33:24.381059)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -83,8 +83,8 @@ Susswein</a>
 <a href="https://github.com/athowes" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/29818116?v=4"/></a>
 <a href="https://github.com/natemcintosh" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/40805156?v=4"/></a>
 <a href="https://github.com/gvegayon" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/893619?v=4"/></a>
-<a href="https://github.com/giomrella" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/67611745?v=4"/></a>
 <a href="https://github.com/kingsleyiyawe" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/46824056?v=4"/></a>
+<a href="https://github.com/giomrella" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/67611745?v=4"/></a>
 <a href="https://github.com/PatrickTCorbett" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/75850221?v=4"/></a>
 <a href="https://github.com/apps/pre-commit-ci" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/68672?v=4"/></a>
 <a href="https://github.com/kgostic" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16617016?v=4"/></a>
@@ -187,7 +187,7 @@ An R package for estimating epidemiological delay distributions.</a>
 <a href="https://github.com/kcharniga" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/32932075?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/epinowcast/epidist/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/epinowcast/epidist.svg"></a><br><a href='https://github.com/epinowcast/epidist/issues' target='_blank'><img src='https://img.shields.io/github/issues/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/badge/branches-6-violet'></a>
+<a href='https://github.com/epinowcast/epidist/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/epinowcast/epidist.svg"></a><br><a href='https://github.com/epinowcast/epidist/issues' target='_blank'><img src='https://img.shields.io/github/issues/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/badge/branches-7-violet'></a>
 </td>
 </tr>
 <tr>
@@ -313,6 +313,7 @@ NumPyro.</a>
 <a href="https://github.com/cshelley" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/7291647?v=4"/></a>
 <a href="https://github.com/natemcintosh" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/40805156?v=4"/></a>
 <a href="https://github.com/brandomr" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/5840199?v=4"/></a>
+<a href="https://github.com/cdc-mitzimorris" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/230177055?v=4"/></a>
 <a href="https://github.com/SamuelBrand1" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/48288458?v=4"/></a>
 </td>
 <td style="text-align:left;">
