@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2025-10-22 00:35:53.83227)</sup>
+<sup>(Last updated: 2025-10-24 00:30:50.509828)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -138,7 +138,7 @@ Bidari</a>
 <a href="https://github.com/pulliam-cdc" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/198635090?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/covid19-forecast-hub/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/covid19-forecast-hub.svg"></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/badge/branches-9-violet'></a>
+<a href='https://github.com/CDCgov/covid19-forecast-hub/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/covid19-forecast-hub.svg"></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/badge/branches-10-violet'></a>
 </td>
 </tr>
 <tr>
@@ -230,8 +230,8 @@ Hudson</a>
 <a href="https://github.com/cdc-as81" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/194849593?v=4"/></a>
 <a href="https://github.com/ekr-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/141454109?v=4"/></a>
 <a href="https://github.com/k88hudson-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/145493147?v=4"/></a>
-<a href="https://github.com/ChiragKumar9" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20232240?v=4"/></a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
+<a href="https://github.com/ChiragKumar9" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20232240?v=4"/></a>
 <a href="https://github.com/apps/ext-cfa-ixa-release" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/12104975?v=4"/></a>
 <a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
