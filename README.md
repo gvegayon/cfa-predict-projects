@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2025-11-17 00:33:36.396065)</sup>
+<sup>(Last updated: 2025-11-19 00:32:49.851922)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -60,8 +60,8 @@ Hladish</a>
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/ryanraaschCDC" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/150935395?v=4"/></a>
-<a href="https://github.com/Nick-P-Adams" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/45801555?v=4"/></a>
 <a href="https://github.com/cdc-ap66" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/191184558?v=4"/></a>
+<a href="https://github.com/Nick-P-Adams" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/45801555?v=4"/></a>
 <a href="https://github.com/swo" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/2549395?v=4"/></a>
 </td>
 <td style="text-align:left;">
@@ -212,7 +212,7 @@ Martin</a>
 <a href="https://github.com/sswanikcdc" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/119453263?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-30-violet'></a>
+<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-29-violet'></a>
 </td>
 </tr>
 <tr>
@@ -233,13 +233,14 @@ Hudson</a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/ChiragKumar9" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20232240?v=4"/></a>
 <a href="https://github.com/apps/ext-cfa-ixa-release" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/12104975?v=4"/></a>
-<a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
+<a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/ranya-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/172307639?v=4"/></a>
 <a href="https://github.com/bbbruce" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8679359?v=4"/></a>
 <a href="https://github.com/eqmooring" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/43585225?v=4"/></a>
 <a href="https://github.com/natemcintosh" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/40805156?v=4"/></a>
 <a href="https://github.com/boris-ning-usds" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/41026275?v=4"/></a>
+<a href="https://github.com/apps/copilot-swe-agent" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/1143301?v=4"/></a>
 <a href="https://github.com/paigemiller" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/14131244?v=4"/></a>
 <a href="https://github.com/KOVALW" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/42873881?v=4"/></a>
 <a href="https://github.com/erik-rosenstrom" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/3866211?v=4"/></a>
@@ -318,7 +319,7 @@ NumPyro.</a>
 <a href="https://github.com/apps/copilot-swe-agent" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/1143301?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/pyrenew/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/pyrenew.svg"></a><br><a href='https://github.com/CDCgov/pyrenew/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/badge/branches-13-violet'></a>
+<a href='https://github.com/CDCgov/pyrenew/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/pyrenew.svg"></a><br><a href='https://github.com/CDCgov/pyrenew/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/badge/branches-7-violet'></a>
 </td>
 </tr>
 <tr>
