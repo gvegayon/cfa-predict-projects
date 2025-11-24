@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2025-11-21 00:31:58.024894)</sup>
+<sup>(Last updated: 2025-11-24 00:35:17.431746)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -187,7 +187,7 @@ An R package for estimating epidemiological delay distributions.</a>
 <a href="https://github.com/kcharniga" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/32932075?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/epinowcast/epidist/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/epinowcast/epidist.svg"></a><br><a href='https://github.com/epinowcast/epidist/issues' target='_blank'><img src='https://img.shields.io/github/issues/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/badge/branches-9-violet'></a>
+<a href='https://github.com/epinowcast/epidist/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/epinowcast/epidist.svg"></a><br><a href='https://github.com/epinowcast/epidist/issues' target='_blank'><img src='https://img.shields.io/github/issues/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/badge/branches-10-violet'></a>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ Martin</a>
 <a href="https://github.com/sswanikcdc" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/119453263?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-29-violet'></a>
+<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-30-violet'></a>
 </td>
 </tr>
 <tr>
@@ -233,14 +233,13 @@ Hudson</a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/ChiragKumar9" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20232240?v=4"/></a>
 <a href="https://github.com/apps/ext-cfa-ixa-release" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/12104975?v=4"/></a>
-<a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
 <a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
+<a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
 <a href="https://github.com/ranya-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/172307639?v=4"/></a>
 <a href="https://github.com/bbbruce" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8679359?v=4"/></a>
 <a href="https://github.com/eqmooring" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/43585225?v=4"/></a>
 <a href="https://github.com/natemcintosh" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/40805156?v=4"/></a>
 <a href="https://github.com/boris-ning-usds" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/41026275?v=4"/></a>
-<a href="https://github.com/apps/copilot-swe-agent" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/1143301?v=4"/></a>
 <a href="https://github.com/paigemiller" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/14131244?v=4"/></a>
 <a href="https://github.com/KOVALW" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/42873881?v=4"/></a>
 <a href="https://github.com/erik-rosenstrom" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/3866211?v=4"/></a>
