@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2025-12-01 00:39:57.902879)</sup>
+<sup>(Last updated: 2025-12-03 00:33:00.99286)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -213,7 +213,7 @@ Martin</a>
 <a href="https://github.com/sswanikcdc" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/119453263?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-30-violet'></a>
+<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-29-violet'></a>
 </td>
 </tr>
 <tr>
@@ -227,15 +227,15 @@ models in Rust.</a>
 Hudson</a>
 </td>
 <td style="text-align:left;">
-<a href="https://github.com/RobertJacobsonCDC" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/191884655?v=4"/></a>
 <a href="https://github.com/cdc-as81" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/194849593?v=4"/></a>
+<a href="https://github.com/RobertJacobsonCDC" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/191884655?v=4"/></a>
 <a href="https://github.com/ekr-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/141454109?v=4"/></a>
 <a href="https://github.com/k88hudson-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/145493147?v=4"/></a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/ChiragKumar9" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/20232240?v=4"/></a>
 <a href="https://github.com/apps/ext-cfa-ixa-release" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/12104975?v=4"/></a>
-<a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
+<a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/ranya-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/172307639?v=4"/></a>
 <a href="https://github.com/bbbruce" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8679359?v=4"/></a>
 <a href="https://github.com/eqmooring" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/43585225?v=4"/></a>
@@ -244,6 +244,7 @@ Hudson</a>
 <a href="https://github.com/paigemiller" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/14131244?v=4"/></a>
 <a href="https://github.com/KOVALW" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/42873881?v=4"/></a>
 <a href="https://github.com/erik-rosenstrom" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/3866211?v=4"/></a>
+<a href="https://github.com/vinibuzzacaro" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/164964351?v=4"/></a>
 </td>
 <td style="text-align:left;">
 <a href='https://github.com/CDCgov/ixa/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/ixa.svg"></a><br><a href='https://github.com/CDCgov/ixa/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/ixa.svg'></a><br><a href='https://github.com/CDCgov/ixa/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/ixa.svg'></a><br><a href='https://github.com/CDCgov/ixa/branches' target='_blank'><img src='https://img.shields.io/badge/branches-30-violet'></a>
@@ -271,7 +272,7 @@ Miller</a>
 <a href="https://github.com/cdc-as81" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/194849593?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/metapop-model/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/metapop-model.svg"></a><br><a href='https://github.com/CDCgov/metapop-model/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/badge/branches-2-violet'></a>
+<a href='https://github.com/CDCgov/metapop-model/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/metapop-model.svg"></a><br><a href='https://github.com/CDCgov/metapop-model/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/badge/branches-3-violet'></a>
 </td>
 </tr>
 <tr>
@@ -304,8 +305,8 @@ NumPyro.</a>
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/damonbayer" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8095080?v=4"/></a>
-<a href="https://github.com/O957" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/127630341?v=4"/></a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
+<a href="https://github.com/O957" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/127630341?v=4"/></a>
 <a href="https://github.com/gvegayon" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/893619?v=4"/></a>
 <a href="https://github.com/dylanhmorris" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8032117?v=4"/></a>
 <a href="https://github.com/sbidari" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/37636707?v=4"/></a>
