@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-01-05 00:38:17.085624)</sup>
+<sup>(Last updated: 2026-01-07 00:34:12.248313)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -65,7 +65,7 @@ Hladish</a>
 <a href="https://github.com/swo" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/2549395?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/cfa-dataops/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/cfa-dataops.svg"></a><br><a href='https://github.com/CDCgov/cfa-dataops/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/badge/branches-7-violet'></a>
+<a href='https://github.com/CDCgov/cfa-dataops/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/cfa-dataops.svg"></a><br><a href='https://github.com/CDCgov/cfa-dataops/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/badge/branches-8-violet'></a>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ Bidari</a>
 <a href="https://github.com/rajathprabhakar100" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/125780024?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/covid19-forecast-hub/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/covid19-forecast-hub.svg"></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/badge/branches-4-violet'></a>
+<a href='https://github.com/CDCgov/covid19-forecast-hub/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/covid19-forecast-hub.svg"></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/badge/branches-5-violet'></a>
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ Johnson</a>
 <a href="https://github.com/sswanikcdc" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/119453263?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/ww-inference-model/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/ww-inference-model.svg"></a><br><a href='https://github.com/CDCgov/ww-inference-model/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/ww-inference-model.svg'></a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/ww-inference-model.svg'></a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'><img src='https://img.shields.io/badge/branches-19-violet'></a>
+<a href='https://github.com/CDCgov/ww-inference-model/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/ww-inference-model.svg"></a><br><a href='https://github.com/CDCgov/ww-inference-model/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/ww-inference-model.svg'></a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/ww-inference-model.svg'></a><br><a href='https://github.com/CDCgov/ww-inference-model/branches' target='_blank'><img src='https://img.shields.io/badge/branches-20-violet'></a>
 </td>
 </tr>
 </tbody>
