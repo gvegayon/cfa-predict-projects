@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-01-12 00:36:59.151515)</sup>
+<sup>(Last updated: 2026-01-14 00:39:45.607527)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -183,6 +183,7 @@ An R package for estimating epidemiological delay distributions.</a>
 <a href="https://github.com/apps/github-actions" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/15368?v=4"/></a>
 <a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/parksw3" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/18031050?v=4"/></a>
+<a href="https://github.com/apps/google-labs-jules" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/842251?v=4"/></a>
 <a href="https://github.com/sbfnk" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/1156307?v=4"/></a>
 <a href="https://github.com/cherz4" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/14792937?v=4"/></a>
 <a href="https://github.com/damonbayer" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8095080?v=4"/></a>
@@ -190,7 +191,7 @@ An R package for estimating epidemiological delay distributions.</a>
 <a href="https://github.com/kcharniga" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/32932075?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/epinowcast/epidist/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/epinowcast/epidist.svg"></a><br><a href='https://github.com/epinowcast/epidist/issues' target='_blank'><img src='https://img.shields.io/github/issues/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/badge/branches-11-violet'></a>
+<a href='https://github.com/epinowcast/epidist/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/epinowcast/epidist.svg"></a><br><a href='https://github.com/epinowcast/epidist/issues' target='_blank'><img src='https://img.shields.io/github/issues/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/epinowcast/epidist.svg'></a><br><a href='https://github.com/epinowcast/epidist/branches' target='_blank'><img src='https://img.shields.io/badge/branches-9-violet'></a>
 </td>
 </tr>
 <tr>
@@ -215,7 +216,7 @@ Martin</a>
 <a href="https://github.com/sswanikcdc" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/119453263?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-29-violet'></a>
+<a href='https://github.com/CDCgov/forecasttools-py/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/forecasttools-py.svg"></a><br><a href='https://github.com/CDCgov/forecasttools-py/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/forecasttools-py.svg'></a><br><a href='https://github.com/CDCgov/forecasttools-py/branches' target='_blank'><img src='https://img.shields.io/badge/branches-25-violet'></a>
 </td>
 </tr>
 <tr>
@@ -274,7 +275,7 @@ Miller</a>
 <a href="https://github.com/cdc-as81" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/194849593?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/metapop-model/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/metapop-model.svg"></a><br><a href='https://github.com/CDCgov/metapop-model/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/badge/branches-5-violet'></a>
+<a href='https://github.com/CDCgov/metapop-model/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/metapop-model.svg"></a><br><a href='https://github.com/CDCgov/metapop-model/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/metapop-model.svg'></a><br><a href='https://github.com/CDCgov/metapop-model/branches' target='_blank'><img src='https://img.shields.io/badge/branches-6-violet'></a>
 </td>
 </tr>
 <tr>
