@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-05-29 01:09:44.600847)</sup>
+<sup>(Last updated: 2026-06-01 01:14:20.296373)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -68,7 +68,7 @@ Hladish</a>
 <a href="https://github.com/swo" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/2549395?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/cfa-dataops/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/cfa-dataops.svg"></a><br><a href='https://github.com/CDCgov/cfa-dataops/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/badge/branches-23-violet'></a>
+<a href='https://github.com/CDCgov/cfa-dataops/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/cfa-dataops.svg"></a><br><a href='https://github.com/CDCgov/cfa-dataops/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/cfa-dataops.svg'></a><br><a href='https://github.com/CDCgov/cfa-dataops/branches' target='_blank'><img src='https://img.shields.io/badge/branches-25-violet'></a>
 </td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@ Hladish</a>
 <a href="https://github.com/lalbrecht15" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/175266814?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/DynODE/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/DynODE.svg"></a><br><a href='https://github.com/CDCgov/DynODE/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/DynODE.svg'></a><br><a href='https://github.com/CDCgov/DynODE/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/DynODE.svg'></a><br><a href='https://github.com/CDCgov/DynODE/branches' target='_blank'><img src='https://img.shields.io/badge/branches-18-violet'></a>
+<a href='https://github.com/CDCgov/DynODE/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/DynODE.svg"></a><br><a href='https://github.com/CDCgov/DynODE/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/DynODE.svg'></a><br><a href='https://github.com/CDCgov/DynODE/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/DynODE.svg'></a><br><a href='https://github.com/CDCgov/DynODE/branches' target='_blank'><img src='https://img.shields.io/badge/branches-19-violet'></a>
 </td>
 </tr>
 <tr>
@@ -248,8 +248,8 @@ Hudson</a>
 <a href="https://github.com/confunguido" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/16387458?v=4"/></a>
 <a href="https://github.com/jasonasher" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/409887?v=4"/></a>
 <a href="https://github.com/ranya-cfa" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/172307639?v=4"/></a>
-<a href="https://github.com/erik-rosenstrom" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/3866211?v=4"/></a>
 <a href="https://github.com/swo" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/2549395?v=4"/></a>
+<a href="https://github.com/erik-rosenstrom" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/3866211?v=4"/></a>
 <a href="https://github.com/bbbruce" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8679359?v=4"/></a>
 <a href="https://github.com/eqmooring" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/43585225?v=4"/></a>
 <a href="https://github.com/natemcintosh" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/40805156?v=4"/></a>
