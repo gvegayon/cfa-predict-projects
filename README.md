@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-08-05 02:53:31.493026)</sup>
+<sup>(Last updated: 2026-08-07 02:52:58.872939)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -120,8 +120,8 @@ Bidari</a>
 <a href="https://github.com/dylanhmorris" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8032117?v=4"/></a>
 <a href="https://github.com/O957" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/127630341?v=4"/></a>
 <a href="https://github.com/atulchin" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8276400?v=4"/></a>
-<a href="https://github.com/paulocv" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/42674294?v=4"/></a>
 <a href="https://github.com/dshemetov" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/1810426?v=4"/></a>
+<a href="https://github.com/paulocv" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/42674294?v=4"/></a>
 <a href="https://github.com/sfiandrino" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/151559870?v=4"/></a>
 <a href="https://github.com/zshamsi2" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/10775415?v=4"/></a>
 <a href="https://github.com/whit1951" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/11995551?v=4"/></a>
@@ -149,7 +149,7 @@ Bidari</a>
 <a href="https://github.com/emprzy" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/100221052?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/covid19-forecast-hub/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/covid19-forecast-hub.svg"></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/badge/branches-15-violet'></a>
+<a href='https://github.com/CDCgov/covid19-forecast-hub/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/covid19-forecast-hub.svg"></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/covid19-forecast-hub.svg'></a><br><a href='https://github.com/CDCgov/covid19-forecast-hub/branches' target='_blank'><img src='https://img.shields.io/badge/branches-16-violet'></a>
 </td>
 </tr>
 <tr>
