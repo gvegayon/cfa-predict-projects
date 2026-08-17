@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-08-14 02:21:31.519088)</sup>
+<sup>(Last updated: 2026-08-17 01:39:22.516209)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
