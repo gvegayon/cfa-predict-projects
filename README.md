@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-08-17 01:39:22.516209)</sup>
+<sup>(Last updated: 2026-08-19 01:35:43.964406)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -38,13 +38,14 @@ Yon</a>
 </td>
 <td style="text-align:left;">
 <a href="https://github.com/gvegayon" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/893619?v=4"/></a>
+<a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/dylanhmorris" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8032117?v=4"/></a>
-<a href="https://github.com/damonbayer" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8095080?v=4"/></a>
 <a href="https://github.com/giomrella" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/67611745?v=4"/></a>
+<a href="https://github.com/damonbayer" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8095080?v=4"/></a>
 <a href="https://github.com/boris-ning-usds" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/41026275?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/cfa-actions/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/cfa-actions.svg"></a><br><a href='https://github.com/CDCgov/cfa-actions/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/cfa-actions.svg'></a><br><a href='https://github.com/CDCgov/cfa-actions/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/cfa-actions.svg'></a><br><a href='https://github.com/CDCgov/cfa-actions/branches' target='_blank'><img src='https://img.shields.io/badge/branches-9-violet'></a>
+<a href='https://github.com/CDCgov/cfa-actions/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/cfa-actions.svg"></a><br><a href='https://github.com/CDCgov/cfa-actions/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/cfa-actions.svg'></a><br><a href='https://github.com/CDCgov/cfa-actions/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/cfa-actions.svg'></a><br><a href='https://github.com/CDCgov/cfa-actions/branches' target='_blank'><img src='https://img.shields.io/badge/branches-2-violet'></a>
 </td>
 </tr>
 <tr>
