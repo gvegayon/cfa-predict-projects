@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-10-30 05:10:30.808086)</sup>
+<sup>(Last updated: 2026-11-02 05:22:45.513767)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -156,6 +156,7 @@ Bidari</a>
 <a href="https://github.com/zkamvar" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/3639446?v=4"/></a>
 <a href="https://github.com/nickreich" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/1280767?v=4"/></a>
 <a href="https://github.com/cdphmodeling" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/163066448?v=4"/></a>
+<a href="https://github.com/Bohan7" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/71388597?v=4"/></a>
 <a href="https://github.com/claudioascione" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/98898632?v=4"/></a>
 <a href="https://github.com/emprzy" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/100221052?v=4"/></a>
 <a href="https://github.com/sjfox" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/5604823?v=4"/></a>
