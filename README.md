@@ -2,7 +2,7 @@
 
 # Open Source Projects by CDC’s Center for Forecasting and Outbreak Analytics
 
-<sup>(Last updated: 2026-11-16 05:46:26.237134)</sup>
+<sup>(Last updated: 2026-11-18 06:48:31.930943)</sup>
 
 The following is a list of open source projects maintained by the Center
 for Forecasting and Outbreak Analytics
@@ -144,8 +144,8 @@ Bidari</a>
 <a href="https://github.com/damonbayer" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/8095080?v=4"/></a>
 <a href="https://github.com/cmu-delphi-deploy-machine" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/77691274?v=4"/></a>
 <a href="https://github.com/Dimlitter" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/68945228?v=4"/></a>
-<a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/kp2469-Kaly" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/195923257?v=4"/></a>
+<a href="https://github.com/apps/dependabot" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/in/29110?v=4"/></a>
 <a href="https://github.com/Bohan7" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/71388597?v=4"/></a>
 <a href="https://github.com/docxology" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/6911384?v=4"/></a>
 <a href="https://github.com/antoniobgondim" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/171732095?v=4"/></a>
@@ -364,7 +364,7 @@ NumPyro.</a>
 <a href="https://github.com/brandomr" target="_blank"><img style="border-radius: 50%; width:25px" src="https://avatars.githubusercontent.com/u/5840199?v=4"/></a>
 </td>
 <td style="text-align:left;">
-<a href='https://github.com/CDCgov/pyrenew/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/pyrenew.svg"></a><br><a href='https://github.com/CDCgov/pyrenew/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/badge/branches-20-violet'></a>
+<a href='https://github.com/CDCgov/pyrenew/commits' target='_blank'><img src="https://img.shields.io/github/last-commit/CDCgov/pyrenew.svg"></a><br><a href='https://github.com/CDCgov/pyrenew/issues' target='_blank'><img src='https://img.shields.io/github/issues/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/github/issues-pr/CDCgov/pyrenew.svg'></a><br><a href='https://github.com/CDCgov/pyrenew/branches' target='_blank'><img src='https://img.shields.io/badge/branches-21-violet'></a>
 </td>
 </tr>
 <tr>
